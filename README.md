@@ -15,7 +15,7 @@ As a user, I want to have a randomly generated password.
 
 ### Acceptance Criteria
 
-IVEN I need a new, secure password
+GIVEN I need a new, secure password
 WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
 WHEN prompted for password criteria
