@@ -16,7 +16,7 @@ var lowerCase = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m"
 // Creating Uppercase letters
 var upperArray = [];
 var getUpper = function (x) {
-  return x.UpperCase();
+  return x.toUpperCase();
 };
 upperCase = lowerCase.map(getUpper);
 
